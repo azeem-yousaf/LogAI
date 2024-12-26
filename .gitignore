@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.LogAI/.idea
+/src/DBInterface/bin/Debug/net8.0
+/src/DBInterface/obj
+/src/LogAI.LLM.Interface/bin/Debug/net8.0
+/src/LogAI.LLM.Interface/obj
+/src/LogAIApi/bin/Debug/net8.0
+/src/LogAIApi/obj
+/src/LogAIApi.Core/bin/Debug/net8.0
+/src/LogAIApi.Core/obj
+/test/LogAIApi.Core.Test.Unit/bin/Debug/net8.0
+/test/LogAIApi.Core.Test.Unit/obj
+/test/LogAIApi.Test.Intergration/obj
+/test/LogAIApi.Test.Unit/obj
